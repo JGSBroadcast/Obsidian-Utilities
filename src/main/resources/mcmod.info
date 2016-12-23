@@ -1,0 +1,16 @@
+[
+{
+  "modid": "obsidianutils",
+  "name": "Obsidian Utilities",
+  "description": "A mod that adds in Obsidian Tools and Armor",
+  "version": "1.0",
+  "mcversion": "1.11",
+  "url": "http://bit.ly/obsidianutils",
+  "updateUrl": "",
+  "authorList": ["JGSBroadcast"],
+  "credits": "Made by JGSBroadcast",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
